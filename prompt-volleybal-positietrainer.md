@@ -191,3 +191,4 @@ Spelers mogen elkaar niet "passeren" volgens de volleybalregels — ook niet als
 ## 12. Bouwvolgorde (suggestie)
 
 Begin met een werkend skelet: het veld met lijnen/net/vakken/scheidsrechtersstoel, de 6 sleepbare spelers, rotatie- en toestandskeuze, en de opnamemodus met storage. Zodra ik daarmee de Basis-toestanden kan vastleggen, bouwen we de oefenlus (Controleer, Toon-overlay, animatie, navigatie) eromheen. Lever in één keer een volledig werkend artefact op.
+asdf
